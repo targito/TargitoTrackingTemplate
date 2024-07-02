@@ -1,0 +1,5 @@
+homepage: "https://www.targito.com"
+documentation: "https://app.targito.com/cs/config/tracking/"
+versions:
+  - sha: 0340907b1f877aa3c4ae86434436853c65c74326
+    changeNotes: Initial release.
